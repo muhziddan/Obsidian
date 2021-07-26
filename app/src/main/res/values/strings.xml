@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Obsidian</string>
+    <string name="rocks_picture_desc">rocks_picture_desc</string>
+    <string name="rocks_name">Rocks Name</string>
+    <string name="detail">Rocks Detail</string>
+    <string name="rocks_photo_desc">rocksPhotoDesc</string>
+    <string name="test">test</string>
+    <string name="testt">testt</string>
+    <string name="about">About</string>
+    <string name="email">ziddan.mz@gmail.com</string>
+    <string name="about_name">Muhammad Ziddan Hidayatullah</string>
+    <string name="developer_profile">Developer Profile</string>
+    <string name="o_b_s_i_d_i_a_n">o b s i d i a n</string>
+    <string name="newObsidian">obsIdIan</string>
+</resources>
